@@ -1,0 +1,7 @@
+touch teja2
+echo "Git Practice" > teja2
+
+git status
+git add .
+git commit -m "Added teja2 file"
+git push origin master
